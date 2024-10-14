@@ -1,0 +1,27 @@
+Package: senegalHIVmodel
+Type: Package
+Title: Analysis of HIV data from Senegal
+Version: 0.1.1
+Authors@R: c(
+    person("Fabricia", "F. Nascimento", email = "thednainus@yahoo.com", role = c("cre", "aut")),
+    person("Erik", "M. Volz", email = "e.volz@imperial.ac.uk", role = "aut"))
+Description: This is a research compendium organized as an R package to carry out
+    phylodynamics models in HIV DNA sequences data from Senegal as described in 
+    Nascimento et al. (In prep).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: ape, 
+    akima,
+    BayesianTools,
+    lubridate,
+    phydynR,
+    phytools,
+    treedater
+RoxygenNote: 7.3.2
+Suggests: kableExtra,
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+URL: https://thednainus.github.io/phydynR.github.io/
