@@ -17,7 +17,6 @@ Imports: ape,
     lubridate,
     phytools,
     treedater
-Remotes: phydynR=url::https://github.com/emvolz-phylodynamics/phydynR/archive/refs/tags/v0.2.3.tar.gz
 RoxygenNote: 7.3.2
 Suggests: kableExtra,
     knitr,
