@@ -16,13 +16,13 @@ Imports: ape,
     BayesianTools,
     lubridate,
     phytools,
-    treedater,
-    bookdown
+    treedater
 Remotes: emvolz-phylodynamics/phydynR
 RoxygenNote: 7.3.2
 Suggests: kableExtra,
     knitr,
     rmarkdown,
     testthat
+    bookdown
 VignetteBuilder: knitr
 URL: https://thednainus.github.io/phydynR.github.io/
