@@ -16,7 +16,8 @@ Imports: ape,
     BayesianTools,
     lubridate,
     phytools,
-    treedater
+    treedater,
+    bookdown
 RoxygenNote: 7.3.2
 Suggests: kableExtra,
     knitr,
