@@ -18,6 +18,7 @@ Imports: ape,
     phytools,
     treedater,
     bookdown
+Remotes: emvolz-phylodynamics/phydynR
 RoxygenNote: 7.3.2
 Suggests: kableExtra,
     knitr,
